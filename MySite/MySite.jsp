@@ -1,5 +1,5 @@
 <!-- <!DOCTYPE html> -->
-<html>
+<htmlxx>
   <head>
     <title>Coin Flipper</title>
   </head>
