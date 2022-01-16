@@ -13,6 +13,6 @@
     <% } %>
     <hr>
     <p>Refresh to flip again.</p>
-    <p>Now let's test if the changes works :)</p>
+    <p>Now let's test if the changes works :) v2</p>
   </body>
 </html>
