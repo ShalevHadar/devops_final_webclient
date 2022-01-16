@@ -1,9 +1,4 @@
-<!-- <!DOCTYPE html> -->
-<htmlxx>
-  <head>
-    <title>Coin Flipper</title>
-  </head>
-  <body>
+
     <h1>Coin Flipper</h1>
     <p>Flipping a coin...</p>
     <% if(Math.random() < .5){ %>
